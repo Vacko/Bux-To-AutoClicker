@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.11.25 23:21:36.812.pas,C:\Documents and Settings\Admin\Dokumenty\Borland Studio Projects\Unit5.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\main.pas</Transaction>
+    <Transaction>2009.11.25 23:21:36.812.dfm,C:\Documents and Settings\Admin\Dokumenty\Borland Studio Projects\Unit5.dfm=C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\main.dfm</Transaction>
+    <Transaction>2009.11.25 23:21:41.218.bdsproj,C:\Documents and Settings\Admin\Dokumenty\Borland Studio Projects\Project6.bdsproj=C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\bux.bdsproj</Transaction>
+    <Transaction>2009.11.25 23:24:26.187.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\Unit1.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\functions_program.pas</Transaction>
+    <Transaction>2009.11.25 23:24:28.343.bdsproj,C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\bux.bdsproj=C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\bux.bdsproj</Transaction>
+    <Transaction>2009.11.25 23:27:55.859.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\Unit1.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\settings_program.pas</Transaction>
+    <Transaction>2009.11.25 23:27:58.453.bdsproj,C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\bux.bdsproj=C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\bux.bdsproj</Transaction>
+    <Transaction>2009.11.25 23:31:29.234.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\Unit1.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\updating.pas</Transaction>
+    <Transaction>2009.11.25 23:31:29.234.dfm,C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\Unit1.dfm=C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\updating.dfm</Transaction>
+    <Transaction>2009.11.25 23:43:46.734.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\Unit1.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\functions_updating.pas</Transaction>
+    <Transaction>2009.11.26 00:37:51.140.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\Unit1.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\functions_buxto.pas</Transaction>
+    <Transaction>2009.11.27 02:06:46.109.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\Unit2.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\stats.pas</Transaction>
+    <Transaction>2009.11.27 02:06:46.125.dfm,C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\Unit2.dfm=C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.1\stats.dfm</Transaction>
+    <Transaction>2009.11.30 19:20:07.656.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.2\updating.pas=</Transaction>
+    <Transaction>2009.11.30 19:20:07.671.dfm,C:\Data\Users\Vasek\Projects\Turbo Delphi\2009\BUX3.2\updating.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
