@@ -3,15 +3,20 @@
 Automatic clicking ads on site bux.to and earning money
 
 ## Features
-- Automatic Run on windows startup
-- Automatic login 
-- Automatic clicking ads on site
+- Windows startup
+- Auto Log In
+- Clicking ads on site
 - Use proxy
-- Automatic aplication updates
-- Automatic exit application after job is done
-- Stats
+- Aplication updates
+- Exit application after job is done
+- Statistics
 
-## Usage
-Login with your username and password. Click Start.
+## Copyright and License
+
+Copyright 2010 Vacko
+
+Licensed under the [MIT licence](LICENSE)
+
+## Pictures
 
 <img src="bux-to-autoclicker.jpg" />
